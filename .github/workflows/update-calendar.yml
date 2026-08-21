@@ -1,0 +1,34 @@
+name: Update Zybooks Calendar
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - run: pip install requests ics
+
+      - run: python main.py
+        env:
+          ZYBOOKS_EMAIL: ${{ secrets.ZYBOOKS_EMAIL }}
+          ZYBOOKS_PASSWORD: ${{ secrets.ZYBOOKS_PASSWORD }}
+
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add ZyBooks.ics
+          git commit -m "Update calendar" || exit 0
+          git push
