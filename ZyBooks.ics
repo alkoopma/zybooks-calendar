@@ -2,24 +2,24 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Total Points: 73\nSections:\n----\n1.1 - Learning and the MEB zyBook\n1.2 - Defining chemical engineering\n1.3 - Significant figures\n1.4 - Units and unit conversions\n----
-DTSTART:20260825T220000Z
-SUMMARY:ASUCHE211TaylorFall2026 - Lecture 01- Reading Assignment
-UID:aed60bf3-98f7-4d81-abff-74c998cdda13@aed6.org
-URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Total Points: 29\nSections:\n----\n1.7 - Concentrations and fractions\n----
 DTSTART:20260901T220000Z
 SUMMARY:ASUCHE211TaylorFall2026 - Lecture 03- Reading Assignment
-UID:70a512ae-db7c-4fe0-af38-4014bb1add8f@70a5.org
+UID:1109897a-601b-4041-9e37-1970f3de73ee@1109.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Total Points: 33\nSections:\n----\n1.5 - Properties\n1.6 - Temperature and temperature calculations\n----
 DTSTART:20260827T220000Z
 SUMMARY:ASUCHE211TaylorFall2026 - Lecture 02- Reading Assignment
-UID:133d65e0-82cf-43ba-8682-b95ee06166ed@133d.org
+UID:939791ea-7731-4bb1-8e3b-5527cc9eb6da@9397.org
+URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 73\nSections:\n----\n1.1 - Learning and the MEB zyBook\n1.2 - Defining chemical engineering\n1.3 - Significant figures\n1.4 - Units and unit conversions\n----
+DTSTART:20260825T220000Z
+SUMMARY:ASUCHE211TaylorFall2026 - Lecture 01- Reading Assignment
+UID:c4dc11b6-059b-4e35-ba19-bb4b86ca7cae@c4dc.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 END:VCALENDAR
