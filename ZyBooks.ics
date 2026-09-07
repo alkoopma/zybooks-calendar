@@ -2,38 +2,45 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Total Points: 38\nSections:\n----\n1.8 - Pressure\n1.9 - Flow rates\n1.10 - Process unit: Pump\n----
-DTSTART:20260903T220000Z
-SUMMARY:ASUCHE211TaylorFall2026 - Lecture 04- Reading Assignment
-UID:89767ff4-27f7-42f5-b36e-4eae1f04c3da@8976.org
-URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Total Points: 29\nSections:\n----\n1.7 - Concentrations and fractions\n----
-DTSTART:20260901T220000Z
-SUMMARY:ASUCHE211TaylorFall2026 - Lecture 03- Reading Assignment
-UID:e6804645-4583-4fde-84f4-ef3ebbfdc5fb@e680.org
+DESCRIPTION:Total Points: 73\nSections:\n----\n1.1 - Learning and the MEB zyBook\n1.2 - Defining chemical engineering\n1.3 - Significant figures\n1.4 - Units and unit conversions\n----
+DTSTART:20260825T220000Z
+SUMMARY:ASUCHE211TaylorFall2026 - Lecture 01- Reading Assignment
+UID:31660b02-ea4c-4ec9-b058-b57129261fb5@3166.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Total Points: 33\nSections:\n----\n1.5 - Properties\n1.6 - Temperature and temperature calculations\n----
 DTSTART:20260827T220000Z
 SUMMARY:ASUCHE211TaylorFall2026 - Lecture 02- Reading Assignment
-UID:effddbc9-cd8a-451b-b64f-b569653d86a9@effd.org
+UID:f16fe7c1-b44d-4ea7-a8d4-afac1e38a678@f16f.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Total Points: 73\nSections:\n----\n1.1 - Learning and the MEB zyBook\n1.2 - Defining chemical engineering\n1.3 - Significant figures\n1.4 - Units and unit conversions\n----
-DTSTART:20260825T220000Z
-SUMMARY:ASUCHE211TaylorFall2026 - Lecture 01- Reading Assignment
-UID:f350f7ea-728b-49d9-adb3-dcf0c8eb2194@f350.org
+DESCRIPTION:Total Points: 29\nSections:\n----\n1.7 - Concentrations and fractions\n----
+DTSTART:20260901T220000Z
+SUMMARY:ASUCHE211TaylorFall2026 - Lecture 03- Reading Assignment
+UID:21d3761c-317b-4785-9733-c1ae78caebdc@21d3.org
+URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 24\nSections:\n----\n2.1 - Process types and process units\n2.12 - Process unit: Distillation column\n----
+DTSTART:20260908T220000Z
+SUMMARY:ASUCHE211TaylorFall2026 - Lecture 05- Reading Assignment
+UID:ab220125-2ffa-445a-8b64-906a18039589@ab22.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Total Points: 23\nSections:\n----\n1.11 - Quantities\, units\, and calculations problems\n1.12 - YouTube problems on quantities\, units\, and calculations\n----
 DTSTART:20260909T065900Z
 SUMMARY:ASUCHE211TaylorFall2026 - End of Chapter 1 Assignment (1.11.1\, 1.11.3\, 1.11.4\, 1.11.6-1.11.8\, 1.11.10\, 1.12.1\, 1.12.2)
-UID:15b7cba1-0315-4b9b-91f4-c32c12e502df@15b7.org
+UID:87cc93a3-ce59-421c-b4ab-bc80b57d4c03@87cc.org
+URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 38\nSections:\n----\n1.8 - Pressure\n1.9 - Flow rates\n1.10 - Process unit: Pump\n----
+DTSTART:20260903T220000Z
+SUMMARY:ASUCHE211TaylorFall2026 - Lecture 04- Reading Assignment
+UID:2549a793-59dd-4cc2-bc3f-1a56fcd1956f@2549.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 END:VCALENDAR
