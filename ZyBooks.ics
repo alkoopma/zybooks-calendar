@@ -5,77 +5,77 @@ BEGIN:VEVENT
 DESCRIPTION:Total Points: 50\nSections:\n----\n2.6 - Steps 4-6: Material balance equations\n2.7 - Step 7: Writing extra equations\n2.8 - Step 8: Identifying unknowns\n2.9 - Steps 9-12: Solving equations and balances\n2.15 - Process unit: Evaporator\n----
 DTSTART:20260915T220000Z
 SUMMARY:ASUCHE211TaylorFall2026 - Lecture 07- Reading Assignment
-UID:1d269df6-67ae-4396-bbef-7ef1ca1b18c2@1d26.org
-URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Total Points: 33\nSections:\n----\n1.5 - Properties\n1.6 - Temperature and temperature calculations\n----
-DTSTART:20260827T220000Z
-SUMMARY:ASUCHE211TaylorFall2026 - Lecture 02- Reading Assignment
-UID:cf8ec995-d65c-48cc-8ed6-addfe19d439d@cf8e.org
+UID:fbc09500-17f8-473f-8a0d-3e8b2a371ace@fbc0.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Total Points: 23\nSections:\n----\n2.10 - Problem solving using all 12 steps for a multi-unit process\n2.11 - Recycle and bypass\n2.16 - Process unit: Condenser\n----
 DTSTART:20260917T220000Z
 SUMMARY:ASUCHE211TaylorFall2026 - Lecture 08- Reading Assignment
-UID:2c2baf0b-9b0f-4995-9648-2d1a9b4f94fa@2c2b.org
-URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Total Points: 23\nSections:\n----\n1.11 - Quantities\, units\, and calculations problems\n1.12 - YouTube problems on quantities\, units\, and calculations\n----
-DTSTART:20260909T065900Z
-SUMMARY:ASUCHE211TaylorFall2026 - End of Chapter 1 Assignment (1.11.1\, 1.11.3\, 1.11.4\, 1.11.6-1.11.8\, 1.11.10\, 1.12.1\, 1.12.2)
-UID:bf40de7e-0e76-458d-b8d7-f24cbd0622ff@bf40.org
+UID:c953556c-cbe2-45a2-bd4b-5e82dbe3fe47@c953.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Total Points: 41\nSections:\n----\n3.1 - Balancing a chemical reaction\n3.2 - Excess and limiting in chemical reactions\n3.3 - Fractional conversion\n----
 DTSTART:20260924T220000Z
 SUMMARY:ASUCHE211TaylorFall2026 - Lecture 09 Reading Assignment
-UID:74149044-8bc6-4183-b365-cf25a93d3a3f@7414.org
+UID:e9043c7b-9b61-4290-afa6-80fbdf409399@e904.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Total Points: 57\nSections:\n----\n2.2 - Problem solving: 12 steps\n2.3 - Step 1: Process flow diagrams (PFDs)\n2.4 - Step 2: Defining a basis\n2.5 - Step 3: Systems and system boundaries\n2.13 - Process unit: Mixer\n2.14 - Process unit: Filter\n----
 DTSTART:20260910T220000Z
 SUMMARY:ASUCHE211TaylorFall2026 - Lecture 06- Reading Assignment
-UID:e754b3ef-74d7-47e6-a050-aac237759ff3@e754.org
-URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Total Points: 24\nSections:\n----\n2.1 - Process types and process units\n2.12 - Process unit: Distillation column\n----
-DTSTART:20260908T220000Z
-SUMMARY:ASUCHE211TaylorFall2026 - Lecture 05- Reading Assignment
-UID:4b1d9349-3022-415d-9190-a0a1e9cb62b2@4b1d.org
-URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Total Points: 73\nSections:\n----\n1.1 - Learning and the MEB zyBook\n1.2 - Defining chemical engineering\n1.3 - Significant figures\n1.4 - Units and unit conversions\n----
-DTSTART:20260825T220000Z
-SUMMARY:ASUCHE211TaylorFall2026 - Lecture 01- Reading Assignment
-UID:75fb898b-f6e7-4246-a9d7-ade42aa5465b@75fb.org
+UID:695e745c-2a04-4a8d-ab0a-b431dfa4827e@695e.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Total Points: 38\nSections:\n----\n1.8 - Pressure\n1.9 - Flow rates\n1.10 - Process unit: Pump\n----
 DTSTART:20260903T220000Z
 SUMMARY:ASUCHE211TaylorFall2026 - Lecture 04- Reading Assignment
-UID:a858cf86-e5b7-424a-8bf3-a8aaf9755bc6@a858.org
+UID:3a7ddb3a-7ed0-4e27-818d-638cf453111e@3a7d.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Total Points: 29\nSections:\n----\n1.7 - Concentrations and fractions\n----
-DTSTART:20260901T220000Z
-SUMMARY:ASUCHE211TaylorFall2026 - Lecture 03- Reading Assignment
-UID:c4ab7830-9999-4f66-9ca6-fcb631294539@c4ab.org
+DESCRIPTION:Total Points: 73\nSections:\n----\n1.1 - Learning and the MEB zyBook\n1.2 - Defining chemical engineering\n1.3 - Significant figures\n1.4 - Units and unit conversions\n----
+DTSTART:20260825T220000Z
+SUMMARY:ASUCHE211TaylorFall2026 - Lecture 01- Reading Assignment
+UID:f1bf032e-d060-4202-abe1-fe3ec9a0e4e8@f1bf.org
+URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 24\nSections:\n----\n2.1 - Process types and process units\n2.12 - Process unit: Distillation column\n----
+DTSTART:20260908T220000Z
+SUMMARY:ASUCHE211TaylorFall2026 - Lecture 05- Reading Assignment
+UID:f24c6607-ebc0-46b0-95b8-5f549f33dbe6@f24c.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Total Points: 23\nSections:\n----\n2.17 - Material balances problems\n2.18 - YouTube problems on material balances\n----
 DTSTART:20260922T220000Z
 SUMMARY:ASUCHE211TaylorFall2026 - End of Chapter 2 Assignment (Problems 2.17.1\, 2.17.2\, 2.17.4\, 2.17.5\, 2.17.7\, 2.17.9 and 2.18.3)
-UID:18d0cea6-e69a-4e73-95c9-c1cf0f658f1e@18d0.org
+UID:78aad484-e678-4ce3-acf7-0e64b45cf973@78aa.org
+URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 29\nSections:\n----\n1.7 - Concentrations and fractions\n----
+DTSTART:20260901T220000Z
+SUMMARY:ASUCHE211TaylorFall2026 - Lecture 03- Reading Assignment
+UID:5355baf3-9b81-473f-bb72-d5f7206776e4@5355.org
+URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 33\nSections:\n----\n1.5 - Properties\n1.6 - Temperature and temperature calculations\n----
+DTSTART:20260827T220000Z
+SUMMARY:ASUCHE211TaylorFall2026 - Lecture 02- Reading Assignment
+UID:6a3ea0b9-12aa-48fb-8da1-8a239e79dff0@6a3e.org
+URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Total Points: 23\nSections:\n----\n1.11 - Quantities\, units\, and calculations problems\n1.12 - YouTube problems on quantities\, units\, and calculations\n----
+DTSTART:20260909T065900Z
+SUMMARY:ASUCHE211TaylorFall2026 - End of Chapter 1 Assignment (1.11.1\, 1.11.3\, 1.11.4\, 1.11.6-1.11.8\, 1.11.10\, 1.12.1\, 1.12.2)
+UID:54f72d34-3a4c-4dde-8a2a-3d942d9ad4d3@54f7.org
 URL:https://learn.zybooks.com/zybook/ASUCHE211TaylorFall2026?selectedPanel=assignments-panel
 END:VEVENT
 END:VCALENDAR
